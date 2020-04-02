@@ -1,3 +1,5 @@
 rencana-belajar
 -belajar OOP
 -belajar MVC
+-belajar git
+-belajar github
